@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Larissarff, I am 19 yo.
+## 👋 Hi, I’m @Larissarff, I am 19 yo (she/her)
 
 <div>
 <a href="https://instagram.com/larissa.rff" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -10,8 +10,4 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
           
-<div>
-<a href="https://github.com/Larissarff">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Larissarff&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Larissarff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
