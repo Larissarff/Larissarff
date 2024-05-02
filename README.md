@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @Larissarff, I am 19 yo.
-- 👀 I’m interested in computer science, chemical and all tecnology areas.
-- 🌱 I’m currently learning Excel, Power BI, MySQL, Phyton, C, C++.
-- 📫 How to reach me: my email - larissa.rfferreira4800@gmail.com 
+
+<div>
+<a href="https://instagram.com/larissa.rff" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:larissa.rfferreira4800@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/larissa-ferreira-computer-science" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: my birthday is the day before halloween.
 
