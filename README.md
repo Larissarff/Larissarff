@@ -1,5 +1,5 @@
 ## Hi, I'm Larissarff
-1° period student of Computer Science 
+2° period student of Computer Science 
 
 <div>
 <a href="https://instagram.com/larissa.rff" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
