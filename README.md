@@ -1,4 +1,4 @@
-## Hi, I'm Larissarff
+## Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Larissarff
 2° period student of Computer Science 
 
 <div>
@@ -12,14 +12,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  width="50" height="50" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="50" height="50"/>
           
-          
-          
-          
- <td>
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissarff&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larissarff&layout=compact&theme=midnight-purple)](https://github.com/Larissarff)
+
+
 
