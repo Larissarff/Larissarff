@@ -16,7 +16,7 @@
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larissarff&layout=compact&theme=midnight-purple)](https://github.com/Larissarff)
-![snake gif](https://github.com/Larissarff/Larissarff/.github/workflows/NomeArquivo.ymlblob/output/github-contribution-grid-snake.svg)
+
 
 
 
