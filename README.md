@@ -15,7 +15,7 @@
           
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larissarff&layout=compact&theme=midnight-purple)](https://github.com/Larissarff)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larissarff&layout=compact&theme=midnight-green)](https://github.com/Larissarff)
 
 
 
