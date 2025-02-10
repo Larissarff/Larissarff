@@ -1,7 +1,7 @@
        
 # 🚀 **Larissa Ferreira | Data & Software Enthusiast**  
 
-### Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  Sou **Larissa Ferreira**, estudante de **Ciência da Computação** apaixonada por **Análise de Dados e Desenvolvimento de Software**. Atualmente, sou **estagiária na PSTG-Tech**, onde aprimoro minhas habilidades e mergulho diariamente no mundo da programação.  
+### Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Sou **Larissa Ferreira**, estudante de **Ciência da Computação** apaixonada por **Análise de Dados e Desenvolvimento de Software**. Atualmente, sou **estagiária na PSTG-Tech**, onde aprimoro minhas habilidades e mergulho diariamente no mundo da programação.  
 
 ---
 
