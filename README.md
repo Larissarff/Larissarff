@@ -32,9 +32,8 @@
 <a href="https://instagram.com/larissa.rff" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:larissa.rfferreira4800@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/larissa-ferreira-computer-science" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
-          
 </div>
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
   <img src="https://github.com/Larissarff/Larissarff/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
