@@ -21,9 +21,9 @@
 ## 📊 **GitHub Stats**  
 
 <div align="center">
-       
-![Larissa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Larissarff&show_icons=true&theme=dark)  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Larissarff&layout=compact&theme=dark)  
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Larissarff&theme=github_dark&hide_border=true&show_icons=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Larissarff&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="150" />
+</div>  
 
 ## 📫 **Contato**  
 
