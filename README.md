@@ -38,7 +38,6 @@
           
 </div>
 
-
 <div align="center">
   <img src="https://github.com/Larissarff/Larissarff/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
