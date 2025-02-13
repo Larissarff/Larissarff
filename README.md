@@ -26,7 +26,6 @@
        
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50"/>    ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 </div>
----
 
 ## 📊 **GitHub Stats**  
 
@@ -34,8 +33,6 @@
        
 ![Larissa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Larissarff&show_icons=true&theme=dark)  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Larissarff&layout=compact&theme=dark)  
 </div>
-
----
 
 ## 📫 **Contato**  
 
