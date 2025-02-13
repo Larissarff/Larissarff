@@ -10,8 +10,7 @@
 - 💼 **Estagiária na PSTG-Tech**  
 - 💡 Apaixonada por **Dados, Programação e Tecnologia**  
 - 🔍 Explorando **Análise de Dados, Automação e Desenvolvimento Full Stack**  
-- 🎯 Buscando desafios para crescer profissionalmente e transformar **dados em insights poderosos**  
-- 🚀 Atualmente focada em **Projetos Open Source e Desenvolvimento Profissional**  
+- 🎯 Buscando desafios para crescer profissionalmente e transformar **dados em insights poderosos**    
   
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50" /> 
