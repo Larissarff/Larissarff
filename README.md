@@ -5,7 +5,7 @@
 ---
 
 ## 📌 **Sobre Mim**
-- 🎓 **Graduanda em Ciência da Computação** (3º período)
+- 🎓 **Graduanda em Ciência da Computação** (4º período)
 - 💼 **Estagiária na PSTG-Tech**
 - 👩🏽‍🏫 **Monitora de Física Teórica e Experimental** na faculdade
 - 💡 Focada em **Backend Development com C# e .NET**
