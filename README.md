@@ -6,8 +6,8 @@
 
 ## 📌 **Sobre Mim**
 - 🎓 **Graduanda em Ciência da Computação** (4º período)
-- 💼 **Estagiária na PSTG-Tech**
-- 👩🏽‍🏫 **Monitora de Física Teórica e Experimental** na faculdade
+- 💼 **Dev C# na Benner**
+- 👩🏽‍🏫 **Monitora de Física Teórica e Experimental** e de **Desenvolvimento Web Responsivo** na faculdade
 - 💡 Focada em **Backend Development com C# e .NET**
 - 🔗 Explorando **APIs RESTful, Bancos de Dados Relacionais e Arquitetura Limpa**
 - 🎯 Buscando desafios que me permitam evoluir como **Desenvolvedora Backend** e construir aplicações que gerem impacto
