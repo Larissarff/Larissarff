@@ -1,33 +1,44 @@
-# 🚀 **Larissa Ferreira | Backend Developer in C# .NET**
+# 🚀 Larissa Ferreira | Software Developer (C# .NET)
 
-### Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Sou **Larissa Ferreira**, estudante de **Ciência da Computação** com paixão por **Desenvolvimento Backend** e criação de APIs robustas em **C# .NET**. Atualmente, sou **estagiária na PSTG-Tech**, onde coloco em prática meu interesse por soluções escaláveis e de alta performance.
+### Olá! 👋  
+Sou **Larissa Ferreira**, desenvolvedora de software com foco em **Backend utilizando C# e .NET**. Atualmente atuo como **Programadora Jr na Benner**, trabalhando no desenvolvimento e manutenção de sistemas corporativos, criação de funcionalidades e automação de processos internos.
 
----
+Tenho grande interesse em **arquitetura de software, APIs e sistemas escaláveis**, além de experiência trabalhando com tecnologias utilizadas em ambientes empresariais complexos.
 
-## 📌 **Sobre Mim**
-- 🎓 **Graduanda em Ciência da Computação** (4º período)
-- 💼 **Dev C# na Benner**
-- 👩🏽‍🏫 **Monitora de Física Teórica e Experimental** e de **Desenvolvimento Web Responsivo** na faculdade
-- 💡 Focada em **Backend Development com C# e .NET**
-- 🔗 Explorando **APIs RESTful, Bancos de Dados Relacionais e Arquitetura Limpa**
-- 🎯 Buscando desafios que me permitam evoluir como **Desenvolvedora Backend** e construir aplicações que gerem impacto
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50"/>
-</div>
+## 📌 Sobre Mim
+
+- 🎓 Graduanda em **Ciência da Computação**
+- 💼 **Programadora Jr na Benner**
+- 👩🏽‍🏫 Ex-monitora de **Física Teórica e Experimental** e **Desenvolvimento Web Responsivo**
+- 💻 Experiência com desenvolvimento backend e sistemas corporativos
+- ⚙️ Atuação com **automação de processos, integrações e manutenção de sistemas empresariais**
+- 🚀 Evoluindo continuamente como **Desenvolvedora Backend**
 
 ---
 
-## 💻 **Principais Competências**
-- **C# / .NET Core** – APIs REST, Entity Framework Core, Clean Architecture
-- **SQL Server / MySQL** – Modelagem de dados e consultas
-- **Docker** – Contêineres para aplicações
-- **Python** – Scripts e automação
-- **Git** – Versionamento de código
+## 💻 Stack e Tecnologias
+
+- **C# / .NET** – desenvolvimento backend e APIs  
+- **Delphi** – manutenção e desenvolvimento em aplicações corporativas  
+- **VBA (Excel)** – automação de processos e manipulação de dados  
+- **SQL Server / MySQL** – modelagem de dados e consultas  
+- **Docker** – containerização de aplicações  
+- **Python** – scripts e automação  
+- **Git** – versionamento de código  
+
+Experiência atuando em **sistemas corporativos da plataforma Benner**, trabalhando com **manutenção, evolução de funcionalidades e automação de rotinas**.
+
+---
+
+## 🎯 Interesses Profissionais
+
+- Backend Development  
+- Arquitetura de Software  
+- Sistemas Corporativos  
+- Engenharia de Software  
+
+Busco constantemente aprimorar minhas habilidades técnicas e contribuir para o desenvolvimento de soluções robustas e escaláveis.
 
 ---
 
