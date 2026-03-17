@@ -10,10 +10,10 @@ Tenho grande interesse em **arquitetura de software, APIs e sistemas escaláveis
 
 - 🎓 Graduanda em **Ciência da Computação**
 - 💼 **Programadora Jr na Benner**
-- 👩🏽‍🏫 Ex-monitora de **Física Teórica e Experimental** e **Desenvolvimento Web Responsivo**
+- 👩🏽‍🏫 Monitora de **Geometria Analítica e Álgebra Linear** e ex-monitora de **Física Teórica e Experimental** e **Desenvolvimento Web Responsivo**
 - 💻 Experiência com desenvolvimento backend e sistemas corporativos
 - ⚙️ Atuação com **automação de processos, integrações e manutenção de sistemas empresariais**
-- 🚀 Evoluindo continuamente como **Desenvolvedora Backend**
+- 🚀 Evoluindo continuamente como **Desenvolvedora Backend** focada em C# .Net 
 
 ---
 
